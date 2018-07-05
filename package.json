@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-cli": "6.26.0",
+    "fast-async": "6.3.7"
+  }
+}
